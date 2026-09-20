@@ -1,0 +1,5 @@
+# Generated discovery links. Re-create with scripts/install.sh or scripts/install.ps1.
+.agents/skills/*
+!.agents/skills/README.md
+.claude/skills/*
+!.claude/skills/README.md
