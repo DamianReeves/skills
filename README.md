@@ -67,3 +67,8 @@ paths = ["/absolute/path/to/this-repo/skills"]
 ```
 
 Claude Code has no extra-path setting. Global `~/.claude/skills` links, `claude --add-dir` this repo, or a plugin are the options.
+
+## License
+
+Apache License 2.0. See [LICENSE](LICENSE).
+
