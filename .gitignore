@@ -3,3 +3,6 @@
 !.agents/skills/README.md
 .claude/skills/*
 !.claude/skills/README.md
+
+# Local editor settings
+.vscode/
